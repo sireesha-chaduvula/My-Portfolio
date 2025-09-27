@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/sireesha-chaduvula/My-Portfolio.git)
 - [Portfolio Projects](https://github.com/sireesha-chaduvula/Portfolio-projects.git)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/sireesha-chaduvula/My-Portfolio/tree/main?tab=readme-ov-file#portfolio-projects)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
