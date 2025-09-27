@@ -82,20 +82,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
-
-
-
 
 
 ## Education
