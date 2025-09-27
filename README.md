@@ -11,7 +11,7 @@ My CV in [pdf]().
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/sireesha-chaduvula/My-Portfolio.git)
+- [About](https://github.com/sireesha-chaduvula/My-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/sireesha-chaduvula/My-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/sireesha-chaduvula/My-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
