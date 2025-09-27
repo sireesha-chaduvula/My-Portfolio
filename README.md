@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Tech Store Sales Analysis](https://github.com/sireesha-chaduvula/My-Portfolio/blob/main/README.md#tech-store-sales-analysis)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/sireesha-chaduvula/My-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+    - [Nashville Housing Data Cleaning](https://github.com/sireesha-chaduvula/My-Portfolio/blob/main/README.md#covid-19-data-exploration)
   - R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - Excel / Google Sheets
