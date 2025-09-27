@@ -5,6 +5,7 @@
 I'm a data analyst passionate about transforming raw data into actionable insights. With a strong foundation in statistics, SQL, Python, and data visualization tools like Tableau and Power BI, I enjoy exploring data, uncovering trends, and solving real-world problems through analytical thinking.
 
 This portfolio showcases projects where I’ve applied data wrangling, exploratory analysis,SQL Queries and visualization to deliver meaningful outcomes. Whether it's business analytics, customer segmentation, or predictive modeling — I'm driven by curiosity and a desire to make data-driven decisions accessible and impactful.
+
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
