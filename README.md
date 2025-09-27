@@ -91,7 +91,7 @@ B.Tech - ECE,
 
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have:
 
 ## Contacts
 - LinkedIn: [@sireesha chaduvula]()
