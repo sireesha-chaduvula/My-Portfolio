@@ -6,12 +6,12 @@ I'm a data analyst passionate about transforming raw data into actionable insigh
 
 This portfolio showcases projects where I’ve applied data wrangling, exploratory analysis,SQL Queries and visualization to deliver meaningful outcomes. Whether it's business analytics, customer segmentation, or predictive modeling — I'm driven by curiosity and a desire to make data-driven decisions accessible and impactful.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf]().
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [About](https://github.com/sireesha-chaduvula/My-Portfolio.git)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
