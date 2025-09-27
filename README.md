@@ -63,7 +63,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Nashville Housing Data Cleaning
 **Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/sireesha-chaduvula/Portfolio-projects/blob/main/Data%20Cleaning%20Project%20Queries_%20Nashville%20Housing.sql)
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Description:** The dataset contains a list of houses that have been sold in Nashville. This project includes the following steps: data loading, data cleaning and preprocessing.
 
 
 **Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
@@ -85,17 +85,10 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+SVEW, JNTUA: 
+B.Tech - ECE,
+2013-2017
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
