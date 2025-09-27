@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/sireesha-chaduvula/My-Portfolio.git)
 - [Portfolio Projects](https://github.com/sireesha-chaduvula/My-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/sireesha-chaduvula/Portfolio-projects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+    - [Analyzing the Factors Contributing to the Success of a Movie]()
     - [Tech Store Sales Analysis](https://github.com/sireesha-chaduvula/My-Portfolio/blob/main/README.md#tech-store-sales-analysis)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/sireesha-chaduvula/My-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
